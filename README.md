@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# This is an overview of this project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project by React.js and ContextApi and firease for part of back end and Stripe for part of Method To Payment  
+and this is Link to this project in firebase but it not commpleted becouse the Cloud Functions not free 
+and Iam deploy this project before use Cloud Functions
+This is Link:-  https://clone-9007e.firebaseapp.com/
+
+
+
+
+
+
+
 
 ## Available Scripts
 
